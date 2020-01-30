@@ -75,14 +75,11 @@ By downloading and or installing the Software and associated files on your compu
 #### A.1 Description of the Software:
 
 The Software constitutes any software distributed as part of or pertaining to the MATLAB code as made available online at
-http://www.github.com/exporl/mwf-artifact-removal
-
-Note: The EEGlab software does not fall under this license, and is available from University of California, San Diego
-https://sccn.ucsd.edu/eeglab/index.php
+http://www.github.com/exporl/adaptive-procedures-comparison
 
 #### A.2 References:
 
-[1] Somers, B., Francart, T. and Bertrand, A. (2018). A generic EEG artifact removal algorithm based on the multi-channel Wiener filter. _Journal of Neural Engineering, 15_(3), 036007. DOI: 10.1088/1741-2552/aaac92
+[1] Dieudonné, B., Van Wilderode, M., and Francart, T. (2020). Temporal quantization deteriorates the discrimination of interaural time differences in click trains (but not that much) _(submitted)_
 
-[2] Somers, B., Francart, T. and Bertrand, A. (2017). MWF toolbox for EEG artifact removal. _Available online, URL:_ http://www.github.com/exporl/mwf-artifact-removal
+[2] Dieudonné, B., Van Wilderode, M., and Francart, T. (2020). Comparison of adaptive psychophysical procedures in MATLAB. _Available online, URL:_ http://www.github.com/exporl/adaptive-procedures-comparison
 
