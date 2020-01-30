@@ -79,7 +79,7 @@ http://www.github.com/exporl/adaptive-procedures-comparison
 
 #### A.2 References:
 
-[1] Dieudonné, B., Van Wilderode, M., and Francart, T. (2020). Temporal quantization deteriorates the discrimination of interaural time differences in click trains (but not that much) _(submitted)_
+[1] Dieudonné, B., Van Wilderode, M., and Francart, T. (2020). Temporal quantization deteriorates the discrimination of interaural time differences in click trains (but not that much). _(submitted)_
 
 [2] Dieudonné, B., Van Wilderode, M., and Francart, T. (2020). Comparison of adaptive psychophysical procedures in MATLAB. _Available online, URL:_ http://www.github.com/exporl/adaptive-procedures-comparison
 

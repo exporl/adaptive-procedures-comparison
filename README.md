@@ -21,7 +21,7 @@ All functions are documented in their respective m-files.
  
 ## References
  
-[1] Dieudonné, B., Van Wilderode, M., and Francart, T. (2020). Temporal quantization deteriorates the discrimination of interaural time differences in click trains (but not that much) _(submitted)_
+[1] Dieudonné, B., Van Wilderode, M., and Francart, T. (2020). Temporal quantization deteriorates the discrimination of interaural time differences in click trains (but not that much). _(submitted)_
 
 
 
